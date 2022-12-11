@@ -6,6 +6,6 @@ Backend for task-management app using typescript and nestjs framework.
 npm run build
 
 # run app
-npm run start
+npm run dev
 
 The app has authentication and authorization for users to create tasks, update their status, delete, get tasks and search tasks with filters.
